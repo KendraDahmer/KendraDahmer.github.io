@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Kendra Gallo</title>
+    <link>https://KendraGallo.github.io/project/</link>
+      <atom:link href="https://KendraGallo.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©NJ Wheeler 2020</copyright><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://KendraGallo.github.io/images/icon_hu0443e55e4fad092805e43727a133c03f_18120_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://KendraGallo.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Colllaborations</title>
+      <link>https://KendraGallo.github.io/project/Colllaborations/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://KendraGallo.github.io/project/Colllaborations/</guid>
+      <description>&lt;p&gt; details of projects co-author
+&lt;p&gt;Much of my work is facilitated by the community&amp;rsquo;s &lt;/p&gt;
+&lt;h3 id=&#34;helminths&#34;&gt;Helminths&lt;/h3&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Manuscript: 
+&lt;a href=&#34;https://KendraGallo.github.io/publication/coghlan2019/&#34;&gt;Comparative GAR-3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Manuscript: Forthcoming&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Brugia malayi&lt;/strong&gt;&lt;/em&gt; (Etiological agent of human lymphatic filariasis)
+&lt;ul&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mansonella</title>
+      <link>https://KendraGallo.github.io/project/Mansonella/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://KendraGallo.github.io/project/Mansonella/</guid>
+      <description>&lt;p&gt;Sensation of a parasite&amp;rsquo;s environment is absolutely critical to successful transmission and continuation of the parasite&amp;rsquo;s life cycle. Vector-borne helminths like schistosomes and filarial nematodes have precisely evolved neurologic and receptor modalities that allow for the integration of multimodal afferent information, such as a worm&amp;rsquo;s chemical, physical, and thermal environment.&lt;/p&gt;
+&lt;p&gt;For instance, mosquito-borne filarial worm larvae are ingested during a blood meal by a mosquito, after which the larvae must quickly escape the blood in order to elude the innate immunity in the mosquito midgut. Worms leave the midgut and enter the hemocoel, and then become intracellular in either the thoracic musculature or Malphigian tubules, depending on species. After development, they migrate to the head region and proboscis in preparation for departure during the next blood meal.&lt;/p&gt;
+&lt;p&gt;Schistosomes, on the other hand, play a more active role during larval infections. Miracidia hatch from eggs in water, and they have a limited amount of energy stored to use for the detection and invasion of competent snails. Likewise, transformed cercaria depart the snail and must infect a compatible mammal, using chemical and thermal cues along the way.&lt;/p&gt;
+&lt;p&gt;These examples are just a snippet of the migrations that filarial worms and schistosomes perform during their life cycles; further chemotaxis is likely performed once in their human hosts. How do the worms do it? They are relatively simple creatures, yet they reliably and repeatedly perform these heroic migrations. This is one of the driving questions for my research.&lt;/p&gt;
+&lt;p&gt;While these migrations are endlessly fascinating, elucidating the molecular receptors that are involved in environmental sensation could also lead to creative ways for approaching parasite control. What if we designed a &amp;ldquo;scentless&amp;rdquo; snail that was hidden from miracidia? What if we could synthesize a salve that could confuse infective filarial and schistosome larvae? Admittedly these would be ambitious projects, but elimination of these debilitating and widespread diseases may require such ambition&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brugia</title>
+      <link>https://KendraGallo.github.io/project/Brugia/</link>
+      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://KendraGallo.github.io/project/Brugia/</guid>
+      <description>&lt;p&gt;Almost all anthelmintics (drugs used to treat helminth infections in humans and animals) target ion channels (see this 
+&lt;a href=&#34;http://www.wormbook.org/chapters/www_anthelminticdrugs/anthelminticdrugs.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WormBook article&lt;/a&gt; for more information on anthelmintics and their targets). Ion channels are often fast acting signal transduction channels that operate at the neuromuscular junction and are often activated by neurotransmitters such as acetylcholine, serotonin, dopamine, among others.&lt;/p&gt;
+&lt;p&gt;One motiviating hypothesis that we have is that the next-generation of anthelmintics will target GPCRs instead of ion channels. Currently, only two drugs, 
+&lt;a href=&#34;https://www.cell.com/trends/parasitology/pdf/S1471-4922%2818%2930009-6.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;praziquantel&lt;/a&gt; and 
+&lt;a href=&#34;https://link.springer.com/article/10.1007%2Fs00436-005-1438-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emodepside&lt;/a&gt;, &lt;em&gt;may&lt;/em&gt; target G protein-coupled receptors (GPCRs), but they likely aren&amp;rsquo;t their only targets. Unfortunately, there hasn&amp;rsquo;t been a novel anthelmintic developed in decades, and we think a focus should be given to new receptor targets like GPCRs. GPCRs are classically believed to be more slow acting than ion channels and function in sensitive neuromodulation, but that isn&amp;rsquo;t necessarily true for helminths. Neuropeptides can cause direct muscular contraction through a GPCR, and so can neurotransmitters [Day and Ribeiro citations].&lt;/p&gt;
+</description>
+    </item>
+    
+    
+  </channel>
+</rss>
