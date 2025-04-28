@@ -234,11 +234,46 @@
           </div>
         </div>
 
-      </div> <!-- timeline-container -->
+      </div> <!-- .timeline-container -->
     </div>
   </div>
 </section>
-  id="projects" class="home-section wg-portfolio">
+
+<!-- Corrected Timeline Styles -->
+<style>
+/* Timeline vertical line */
+.timeline-container {
+  position: relative;
+  margin-left: 30px;
+  padding-left: 20px;
+  border-left: 2px solid #007bff; /* vertical blue line */
+}
+
+/* Dots */
+.timeline-dot {
+  position: absolute;
+  left: -7px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 14px;
+  height: 14px;
+  background: #007bff;
+  border-radius: 50%;
+}
+
+/* Each experience block */
+.experience {
+  position: relative;
+  margin-bottom: 40px;
+}
+
+/* Card spacing */
+.experience .card {
+  margin-left: 20px;
+}
+</style>
+
+<section  id="projects" class="home-section wg-portfolio">
     <div class="container">
       <div class="row">
         <div class="col-lg-4 section-heading">
