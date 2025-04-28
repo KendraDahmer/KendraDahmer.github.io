@@ -154,11 +154,7 @@
       <div class="col-lg-4 section-heading">
         <h1>Experience</h1>
       </div>
-
-      <div class="col-lg-8 position-relative">
-
-        <!-- Vertical line -->
-        <div class="timeline-line"></div>
+      <div class="col-lg-8 timeline-container">
 
         <div class="experience">
           <div class="timeline-dot"></div>
@@ -238,31 +234,29 @@
           </div>
         </div>
 
-      </div> <!-- col-lg-8 -->
+      </div> <!-- .timeline-container -->
     </div>
   </div>
 </section>
 
 <!-- Corrected Timeline Styles -->
 <style>
-/* Timeline vertical line between first and last dot */
-.timeline-line {
-  position: absolute;
-  left: 30px;
-  top: 0;
-  bottom: 0;
-  width: 2px;
-  background-color: #007bff;
+/* Timeline vertical line */
+.timeline-container {
+  position: relative;
+  margin-left: 30px;
+  padding-left: 20px;
+  border-left: 2px solid #007bff; /* vertical blue line */
 }
 
 /* Dots */
 .timeline-dot {
   position: absolute;
-  left: 23px;
+  left: -27px;
   top: 50%;
   transform: translateY(-50%);
-  width: 14px;
-  height: 14px;
+  width: 12px;
+  height: 12px;
   background: #007bff;
   border-radius: 50%;
 }
@@ -273,12 +267,11 @@
   margin-bottom: 40px;
 }
 
-/* Cards */
+/* Card spacing */
 .experience .card {
-  margin-left: 60px;
+  margin-left: 20px;
 }
 </style>
-
 
 <section  id="projects" class="home-section wg-portfolio">
     <div class="container">
