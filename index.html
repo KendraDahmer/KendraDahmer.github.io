@@ -120,7 +120,7 @@
       </div>
       <div class="col-12 col-lg-8">
         <h1>Biography</h1>
-        <p>I am a postdoctoral scholar in the <a href="https://pickering.berkeley.edu/" target="_blank" rel="noopener">Pickering Lab</a> at UC Berkeley. I am currently working to improve surveillance strategies for soil-transmitted helminths (STH) in environmental reservoirs in Benin and India. I received my PhD from the University of Wisconsin-Madison where I studied vector-borne helminths like <em>Brugia malayi</em> and <em>Mansonella spp.</em> I received my BS in Microbiology from the University of Wisconsin-Milwaukee.</p>
+        <p>I am a postdoctoral scholar in the <a href="https://pickering.berkeley.edu/" target="_blank" rel="noopener">Pickering Lab</a> at UC Berkeley. I am currently working to improve surveillance strategies for soil-transmitted helminths (STH) in environmental reservoirs in Benin and India. I received my PhD from the University of Wisconsin-Madison where I studied vector-borne helminths like <em>Brugia malayi</em> and <em>Mansonella spp.</em> I received my BS in Microbiology from the University of Wisconsin-Milwaukee. (website in progress)</p>
 
         <div class="row">
           <div class="col-md-5">
@@ -154,7 +154,11 @@
       <div class="col-lg-4 section-heading">
         <h1>Experience</h1>
       </div>
-      <div class="col-lg-8 timeline-container">
+
+      <div class="col-lg-8 position-relative">
+
+        <!-- Vertical line -->
+        <div class="timeline-line"></div>
 
         <div class="experience">
           <div class="timeline-dot"></div>
@@ -234,29 +238,31 @@
           </div>
         </div>
 
-      </div> <!-- .timeline-container -->
+      </div> <!-- col-lg-8 -->
     </div>
   </div>
 </section>
 
 <!-- Corrected Timeline Styles -->
 <style>
-/* Timeline vertical line */
-.timeline-container {
-  position: relative;
-  margin-left: 30px;
-  padding-left: 20px;
-  border-left: 2px solid #007bff; /* vertical blue line */
+/* Timeline vertical line between first and last dot */
+.timeline-line {
+  position: absolute;
+  left: 30px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background-color: #007bff;
 }
 
 /* Dots */
 .timeline-dot {
   position: absolute;
-  left: -27px;
+  left: 23px;
   top: 50%;
   transform: translateY(-50%);
-  width: 12px;
-  height: 12px;
+  width: 14px;
+  height: 14px;
   background: #007bff;
   border-radius: 50%;
 }
@@ -267,11 +273,12 @@
   margin-bottom: 40px;
 }
 
-/* Card spacing */
+/* Cards */
 .experience .card {
-  margin-left: 20px;
+  margin-left: 60px;
 }
 </style>
+
 
 <section  id="projects" class="home-section wg-portfolio">
     <div class="container">
