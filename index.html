@@ -249,6 +249,28 @@
   border-left: 2px solid #007bff; /* vertical blue line */
 }
 
+/* Line starting from a certain offset */
+.timeline-container::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 40px; /* start point */
+  height: 60%; /* adjust as needed */
+  width: 2px;
+  background-color: #007bff;
+}
+
+/* Line continuing after the main content */
+.timeline-container::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 20px; /* adjust length of after-line */
+  width: 2px;
+  background-color: #007bff;
+}
+
 /* Dots */
 .timeline-dot {
   position: absolute;
